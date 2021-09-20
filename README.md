@@ -1,25 +1,28 @@
-andas Project: Make a Gradebook With Pandas The code in this folder is
-used to generate and process the data for the tutorial Pandas Project:
-Make a Gradebook With Pandas\_.
+# railwaygugae data
+In this project you can load ***CSV files*** and we can modify the data.
+Finding the maximum and minimum data of given inuput.
+Data frame to desicribe the ***Mean,Minimum,Maximum and Standard deviation***.
+Visualization of Data.
 
-generate\_data.py The script generate\_data.py uses the Faker library to
-generate fake student names and NumPy to generate scores for homework,
-exams, and quizzes. The data are stored as CSV files in the data folder.
-With the seed that is set in the script, the data used in the article
-can be reproduced. To try out new data, change the seed for the NumPy
-random number generator.
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Numbered Python Scripts In the article, you create a script called
-gradebook.py. For didactic purposes, each of the steps in the
-development process is broken into a separate script here. The .py
-scripts build from one example to the next, to generate the final copy
-called 06-final-gradebook.py. The order in the article is:
 
-01-loading-the-data.py 02-merging-dataframes.py 03-calculating-grades.py
-04-grouping-the-data.py 05-plotting-summary-statistics.py Installing
-Dependencies There are two requirements.txt files in this repository.
-The data/requirements.txt contains the dependencies for the
-generate\_data.py script. The requirements.txt file in the root folder
-contains the dependencies for the gradebook.py script.
+## Thank You!
+Please ⭐️ this repo and share it with others
 
-© 2021 GitHub, Inc.
+
+### Requirements 🔧
+* python 3.9.7
+
+### Installation 🔌
+1. Press the **Fork** button (top right the page) to save copy of this project on your account.
+
+2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+
+       git clone https://github.com/Hemamaliniparavasthu/dataproject-railwayguage.git
+3. Imported it in Python IDE.
+4. Run the application 
+
+### Contributing 💡
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
+If you find any issue just put it in the repository issue section, thank you.
