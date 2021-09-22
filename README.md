@@ -1,7 +1,7 @@
 # railwayguage data
 In this project you can load ***CSV files*** and we can modify the data.
 Finding the maximum and minimum data of given inuput.
-Data frame to desicribe the ***Mean,Minimum,Maximum and Standard deviation*** and
+Data frame to describe the ***Mean,Minimum,Maximum and Standard deviation*** and
 Visualization of Data.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
